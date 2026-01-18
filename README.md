@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para o desafio da **DIO.me**, utilizando o **Googl
 Demonstrar como a Inteligência Artificial e a Inteligência Emocional podem coexistir para criar profissionais mais produtivos e saudáveis até 2026.
 
 ## 🔗 Link do Projeto no NotebookLM
-> **[CLIQUE AQUI PARA ACESSAR O MEU NOTEBOOKLM]((https://notebooklm.google.com/notebook/bf890524-b588-4123-9b1d-02f6973d7ee0))** *(Nota: Ao abrir o link, você poderá interagir com as fontes, ver a matriz estratégica e ouvir o podcast gerado pela IA).*
+> **([CLIQUE AQUI PARA ACESSAR O MEU NOTEBOOKLM](https://notebooklm.google.com/notebook/bf890524-b588-4123-9b1d-02f6973d7ee0))** *(Nota: Ao abrir o link, você poderá interagir com as fontes, ver a matriz estratégica e ouvir o podcast gerado pela IA).*
 
 ## 🧠 Conteúdos Analisados
 - **Harvard Gazette:** O papel da Inteligência Emocional no ambiente de trabalho.
